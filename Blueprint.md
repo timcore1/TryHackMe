@@ -1,7 +1,5 @@
 # TryHackMe-Blueprint
 
->Abdullah Rizwan | 23th September , 11:03 PM
-
 ## NMAP
 
 ```
