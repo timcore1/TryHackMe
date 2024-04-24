@@ -1,5 +1,4 @@
-# TryHackMe-BountyHackerCTF
-Abdullah Rizwan , Friday 28 August , 05:34 PM
+
 
 ## NMAP
 
