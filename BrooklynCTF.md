@@ -1,5 +1,4 @@
 # TryHackMe-BrooklynCTF
-Abdullah Rizwan, 25 August , 09:15 PM
 
 BrooklynCTF is a beginner level anyone can try to hack this box. There are two main intended ways to root the box.
 
