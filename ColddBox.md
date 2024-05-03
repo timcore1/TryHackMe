@@ -56,14 +56,14 @@
 
 <img src="https://imgur.com/Rd5CJtv.png"/>
 
-But we need to escalate our privileges in order read `user.txt`	
+Но нам нужно расширить наши привилегии, чтобы читать user.txt `user.txt`	
 
 <img src="https://imgur.com/uQffE6i.png"/>
 
 <img src="https://imgur.com/kQEuDQW.png"/>
 
-We see find as SUID so we abuse it to gain access to root
+Мы видим find как SUID, поэтому злоупотребляем им, чтобы получить доступ к root
 
 <img src="https://imgur.com/VVUh9o5.png"/>
 
-We can see that our prompt as changed as a root user
+Мы видим, что наше приглашение изменилось от имени пользователя root
