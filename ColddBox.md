@@ -20,13 +20,13 @@
 
 ## Dirsearch
 
-I started fuzzing for directories using dirsearch and expected to found wp-admin as it is a wordpress site
+Я начал искать каталоги с помощью dirsearch и ожидал найти wp-admin, так как это сайт на wordpress
 
 <img src="https://imgur.com/RzKcrg0.png"/>
 
 <img src="https://imgur.com/8QbEzYa.png"/>
 
-This gave us a valid username and we can verify it as wordpress allows us to know if the username is correct but the password is invalid
+Это дало нам действительное имя пользователя, и мы можем проверить его, поскольку wordpress позволяет нам узнать, правильно ли введено имя пользователя, но неверен ли пароль
 
 <img src="https://imgur.com/hNbxZX0.png"/>
 
