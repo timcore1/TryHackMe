@@ -30,15 +30,15 @@
 
 <img src="https://imgur.com/hNbxZX0.png"/>
 
-We can bruteforce password for this user account.
+Мы можем взломать пароль для этой учетной записи пользователя.
 
 ## WPSCAN
 
-For wordpress it is recommended to run wpscan to enumerate for user names ,plugins and themes installed also it looks for vulnerable plugins
+Для wordpress рекомендуется запустить wpscan для поиска установленных имен пользователей, плагинов и тем, а также для поиска уязвимых плагинов
 
 <img src="https://imgur.com/4O6rJkA.png"/>
 
-We found a few more users along with hugo so let's start the bruteforce attack through wpscan
+Вместе с hugo мы нашли еще несколько пользователей, так что давайте начнем атаку грубой силой через wpscan
 
 <img src="https://imgur.com/0XPVlo5.png"/>
 
@@ -46,13 +46,13 @@ We found a few more users along with hugo so let's start the bruteforce attack t
 
 <img src="https://imgur.com/9iqHQDF.png"/>
 
-We logged into the wordpress dashboard now goto `Appearance` -> `Editor` -> `Select 404 Template`-> `Paste php reverse shell` 
+Мы вошли в панель управления wordpress, теперь переходим к `Appearance` -> `Editor` -> `Select 404 Template`-> `Paste php reverse shell` 
 
 <img src="https://imgur.com/QDzdwA2.png"/>
 
 <img src="https://imgur.com/oEzHJ5d.png"/>
 
-Now we have to invoke the php reverse shell as setting up a netcat listener to do that we have added our malicious 404.php file now we need to navigate to where it is stored as we have edited theme twentyfiteen it is in `wp-content/themes/twentyfifteen/404.php`
+Теперь нам нужно вызвать обратную оболочку php, поскольку для настройки прослушивателя netcat мы добавили наш вредоносный файл 404.php теперь нам нужно перейти к тому месту, где он хранится, поскольку мы отредактировали тему twentyfiteen, в которой он находится `wp-content/themes/twentyfifteen/404.php`
 
 <img src="https://imgur.com/Rd5CJtv.png"/>
 
