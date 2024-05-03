@@ -14,7 +14,7 @@ Open 10.10.218.218:4512
 
 <img src="https://imgur.com/vAiwYMa.png"/>
 
-This looks like a wordpress site to ensure this let's visit `/wp-admin`
+Это выглядит как сайт на wordpress, чтобы убедиться в этом, давайте посетим его `/wp-admin`
 
 <img src="https://imgur.com/3PitIQV.png"/>
 
