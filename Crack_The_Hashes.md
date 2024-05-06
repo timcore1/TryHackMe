@@ -1,7 +1,5 @@
 # TryHackMe - Crack The Hashes
 
-> Abdullah Rizwan | 10th September , 06 : 03 PM
-
 
 ## Cracking The Hashes
 
