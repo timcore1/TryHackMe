@@ -1,7 +1,5 @@
 # TryHackMe-Hack Park
 
->Abdullah Rizwan | 09 : 45 PM | 30th October 2020
-
 ## NMAP
 
 This is a windows machine so it might not respond to ping so in this we are going to use `-Pn` to ingore ping the box
