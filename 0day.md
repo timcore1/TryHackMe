@@ -28,7 +28,7 @@ Nmap done: 1 IP address (1 host up) scanned in 27.55 seconds
 
 ## Feroxbuster
 
-For directory fuzzing I used `feroxbuster`
+Для фаззинга каталогов я использовал `feroxbuster`
 
 <img src="https://imgur.com/uPEPTsy.png"/>
 
