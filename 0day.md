@@ -34,44 +34,43 @@ Nmap done: 1 IP address (1 host up) scanned in 27.55 seconds
 
 <img src="https://imgur.com/WoP8k8m.png"/>
 
-The `backup` directory has private key
+Каталог резервных копий содержит закрытый ключ
 
 <img src="https://imgur.com/z4XnVU0.png">
 
-But we don't have a valid username to connect with SSH.
+Но у нас нет действительного имени пользователя для подключения по SSH.
 
 ## Nikto
 
 <img src="https://imgur.com/PzXw7Dr.png"/>
 
-Alternativley we could have done this with `gobuster` or with `wfuzz`
+В качестве альтернативы мы могли бы сделать это с помощью gobuster или wfuzz
 
 <img src="https://imgur.com/zI7ZKQV.png"/>
 
 
-With wfuzz
+С wfuzz
 
 <img src="https://imgur.com/wt3yUft.png"/>
 
 
-This told us that there is a test.cgi which we can access and there is an exploit for it which is called `shellshock` vulnerability for cgi-bin.
-
+Это подсказало нам, что существует файл test.cgi, к которому мы можем получить доступ, и для него есть эксплойт, который называется уязвимостью shellshock для cgi-bin.
 
 <img src="https://imgur.com/aG1YvUu.png"/>
 
-Now I launched a shell in meterpreter session through `shell` then stabilized it with python.Got the user flag now only thing left to do is privilege escalation
+Теперь я запустил оболочку в сеансе meterpreter через shell, а затем стабилизировал ее с помощью python. Получил флаг пользователя, теперь осталось только повысить привилегии
 
 ## Privilege Escalation
 
 <img src="https://imgur.com/ieAYkPK.png"/>
 
-If he search an exploit for this version we will get this on exploit-db
+Поищем эксплойт для этой версии, мы получим его в базе данных эксплойтов:
 
 
 <img src="https://imgur.com/DyBUiNI.png"/>
 
 
-Have the exploit on your local machine and tranfer it to target through netcat or python web server
+Установите эксплойт на свой локальный компьютер и передайте его на целевой сервер через веб-сервер netcat или python:
 
 <img src="https://imgur.com/EmcReja.png"/>
 
@@ -79,4 +78,4 @@ Have the exploit on your local machine and tranfer it to target through netcat o
 
 <img src="https://imgur.com/pLxyAfz.png"/>
 
-And we got root !!!
+И у нас есть рут!!!
