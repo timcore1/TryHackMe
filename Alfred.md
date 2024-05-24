@@ -56,7 +56,7 @@ Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
 
 <img src="https://i.imgur.com/yUPIbcb.png"/>
 
-Here you can see there's a command written `whoami` so let's click on `Apply` and `Save`
+Здесь Вы можете видеть, что есть команда, написанная как  whoami, так что давайте нажмем "Применить" и сохранимся:
 
 <img src="https://i.imgur.com/eXEBFF6.png"/>
 
