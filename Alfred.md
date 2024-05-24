@@ -52,7 +52,7 @@ Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
 
 <img src="https://imgur.com/msvm69Y.png"/>
 
-Switch to `Build Environment Tab`
+Переключимся на `Build Environment Tab`:
 
 <img src="https://i.imgur.com/yUPIbcb.png"/>
 
