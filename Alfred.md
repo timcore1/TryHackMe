@@ -47,7 +47,8 @@ Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
 Наведите курсор мыши на project, и вы увидите выпадающее меню
 
  <img src="https://i.imgur.com/15CMp1p.png"/>
-You'll have options like "Changes", "Workspace", "Build Now", "Delete Project"," Configure" and "Rename". Select `Configure`
+ 
+У Вас будут такие варианты, как "Changes", "Workspace", "Build Now", "Delete Project"," Configure" и "Rename". Выберем `Configure`:
 
 <img src="https://imgur.com/msvm69Y.png"/>
 
