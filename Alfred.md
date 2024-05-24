@@ -37,7 +37,7 @@ Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
 
 <img src="https://imgur.com/hrO4m40.png"/>
 
-And it didn't work , let's try `admin:admin`
+И это не сработало, давайте попробуем admin:admin
 
 <img src="https://imgur.com/aFModUR.png"/>
 
