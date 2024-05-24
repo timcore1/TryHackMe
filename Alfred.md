@@ -31,7 +31,7 @@ Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
 
 <img src="https://imgur.com/aXHhYWT.png"/>
 
-We can see jenkins login portal so let's try using the default credentials
+Мы видим портал входа в систему jenkins, поэтому давайте попробуем использовать учетные данные по умолчанию
 
 `admin:password`
 
