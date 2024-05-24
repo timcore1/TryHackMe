@@ -60,7 +60,7 @@ Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
 
 <img src="https://i.imgur.com/eXEBFF6.png"/>
 
-Click on `#2` then `Console Ouput`
+Нажмем на `#2`, затем на `Console Output`
 
 <img src="https://i.imgur.com/H0Bx0xH.png"/>
 
