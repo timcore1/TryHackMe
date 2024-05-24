@@ -1,7 +1,5 @@
 # TryHackMe-ICE CTF
 
-> Abdullah Rizwan | 09 September ,09 : 05 PM
-
 ## NMAP
 
 ```
