@@ -25,7 +25,7 @@ Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
 
 <img src="https://imgur.com/OzQMPUD.png"/>
 
-Here we don't see anything intersting so let's move to other http port
+Здесь мы не видим ничего интересного, поэтому давайте перейдем к другому http-порту
 
 ## PORT 8080 (HTTP)
 
