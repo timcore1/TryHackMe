@@ -42,9 +42,9 @@ Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
 <img src="https://imgur.com/aFModUR.png"/>
 
 
-This worked are we are in, now we need to find where we can execute commands so we can get a reverse shell on the target machine 
+Это сработало там, где мы находимся, теперь нам нужно найти, где мы можем выполнять команды, чтобы получить обратную оболочку на целевой машине
 
-Hover over the `project` you'll get a dropdown menu
+Наведите курсор мыши на project, и вы увидите выпадающее меню
 
  <img src="https://i.imgur.com/15CMp1p.png"/>
 You'll have options like "Changes", "Workspace", "Build Now", "Delete Project"," Configure" and "Rename". Select `Configure`
