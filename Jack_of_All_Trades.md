@@ -1,7 +1,5 @@
 # TryHackMe-Jack Of All Trades
 
->Abdullah Rizwan | 08:17 PM , 1st November 2020
-
 ## NMAP
 
 ```
