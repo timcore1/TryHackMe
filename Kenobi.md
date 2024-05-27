@@ -1,7 +1,5 @@
 # TryHackMe-Kenobi
 
-> Abdullah Rizwan | 09:57 PM
-
 
 ## NMAP
 
