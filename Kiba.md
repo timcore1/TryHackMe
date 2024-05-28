@@ -1,7 +1,5 @@
 # TryHackMe-Kiba
 
->Abdullah Rizwan | 10:28 AM | 4th November ,2020
-
 ## NMAP
 
 ```
