@@ -1,7 +1,5 @@
 # TryHackMe-LFI
 
-> Abdullah Rizwan | 09:21 AM , 4th November ,2020
-
 
 ## LFI
 
