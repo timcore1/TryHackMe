@@ -1,5 +1,4 @@
 # TryHackMe-Lian_YU CTF
-Abdullah Rizwan , 1 spetember , 12:09 PM
 
 ## NMAP
 
