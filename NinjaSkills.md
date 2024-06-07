@@ -1,7 +1,5 @@
 # TryHackMe-Ninja Skills
 
->Abdullah Rizwan | 05:36 PM
-
 First of all copied all the files mentioned into `/tmp` folder by finding them with
 
 `find / -name "file_name" `
