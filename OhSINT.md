@@ -1,7 +1,5 @@
 # TryHackMe-OhSINT
 
-> Abdullah Rizwan | 11 th September , 07 : 44 PM
-
 
 This is a OSINT box where we have to analyze information only through image provided to us.
 
