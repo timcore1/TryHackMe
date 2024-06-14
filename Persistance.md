@@ -1,7 +1,5 @@
 # TryHackMe-Persistance
 
->Abdullah Rizwan | 3:06 PM | 3rd November 2020
-
 ## ﻿What is persistence?
 
 Persistence is a post-exploitation activity used by penetration testers in order to keep access to a system throughout the whole assessment and not to have to re-exploit the target even if the system restarts.
