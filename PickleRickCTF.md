@@ -1,5 +1,4 @@
 # TryHackMe-PickleRick CTF
-Abdullah Rizwan ,21 August , 09:35 PM
 
 PickleRick is a free beginner level webapplication kinda CTF.
 
