@@ -1,7 +1,5 @@
 # TryHackMe-Res
 
-> Abdullah Rizwan | 12:00 AM | 4th November ,2020
-
 ## NMAP
 
 Run the scan for all ports 
