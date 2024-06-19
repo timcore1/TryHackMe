@@ -1,7 +1,5 @@
 # TryHackMe-Server From Hell
 
-> Abdullah Rizwan | 05:54 PM | 3rd November ,2020
-
 ## NMAP
 
 ```
