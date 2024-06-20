@@ -1,7 +1,5 @@
 # TryHackMe-Skynet
 
->Abdullah Rizwan , Sunday 25th October,05:36 PM
-
 ## NMAP
 
 ```
