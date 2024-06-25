@@ -1,7 +1,5 @@
 # TryHackMe-Tartarus Remastered
 
->Abdullah Rizwan | 21st September , 06:57 PM
-
 
 ## NMAP
 
