@@ -1,7 +1,5 @@
 # TryHackMe-ThompsonCTF
 
->Abdullah Rizwan | 20th September , 03:45 PM
-
 ## NMAP
 ```
 Nmap scan report for 10.10.114.149
