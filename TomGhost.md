@@ -1,7 +1,5 @@
 # TryHackMe-Thompson
 
-> Abdullah Rizwan | 20th September , 10:15 PM
-
 ## NMAP
 
 
