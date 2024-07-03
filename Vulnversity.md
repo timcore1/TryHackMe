@@ -1,7 +1,5 @@
 # TryHackMe-Vulnversity
 
->Abdullah Rizwan | 15th September , 08 : 29 PM
-
 #NMAP
 
 ```
