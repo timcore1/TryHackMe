@@ -1,5 +1,4 @@
 # TryHackMe-WgelCTF
-Abdullah Rizwan ,21 August , 03:07 PM
 
 Wgel CTF is free box to try on TryHackMe and it's a beginner level box
 
