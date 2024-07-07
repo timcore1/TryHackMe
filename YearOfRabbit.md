@@ -1,7 +1,5 @@
 # TryHackMe-YearOfRabbit
 
->Abdullah Rizwan | 09:12 PM , 18th October
-
 ## NMAP
 
 ```
