@@ -1,7 +1,5 @@
 # TryHackMe-Bolt
 
-> Abdullah Rizwan | 2:42 PM | 1st November , 2020
-
 ## NMAP
 
 ```
