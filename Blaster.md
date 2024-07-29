@@ -1,7 +1,5 @@
 # TryHackMe-Blaster CTF
 
->Abdullah Rizwan | 17th September , 06:19 PM
-
 
 ## NMAP
 
