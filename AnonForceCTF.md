@@ -1,5 +1,4 @@
 # TryHackMe-AnonForce
-Abdullah Rizwan ,23 August,8:08 PM
 
 AnonForce a boo2root beginner level box where you have to find 2 flags one for user and one for root
 
