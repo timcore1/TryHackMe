@@ -1,7 +1,5 @@
 # TryHackMe-Fowsniff
 
->Abdullah Rizwan | 09:56 PM, 17th October 2020
-
 ## NMAP
 
 ```
