@@ -1,7 +1,5 @@
 # TryHackMe-Fortune
 
->Abdullah Rizwan 05:43 PM | 31st October ,2020
-
 ## NMAP
 
 ```
