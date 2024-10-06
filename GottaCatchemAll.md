@@ -1,7 +1,5 @@
 # TryHackMe-Gotta Catch'Em All!
 
->Abdullah Rizwan | 08:54 PM , 24 October 2020
-
 ## NMAP
 
 ```
